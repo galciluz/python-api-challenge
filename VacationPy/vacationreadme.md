@@ -4,7 +4,7 @@
 
 Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
 
-* Heat map that displays the humidity for every city from Part I.
+* Heat map that displays the humidity for every city from Part I, and in green spots the cities with the max humidity.
 
   ![heatmap](Images/heatmap.png)
 
