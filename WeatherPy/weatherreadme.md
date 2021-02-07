@@ -8,14 +8,13 @@ Creating a Python script to visualize the weather of 500+ cities across the worl
 
 ** In the grap, while the latitude is greater the max temp decrease.
 
-  ![latitud_vs_maxtemp](Images/latvsmaxtemp.png)
+  ![latitud_vs_maxtemp](Images/latvsmmaxtemp.png)
 
-
-** Cities that belong to the Northern Hemisphere tend to have a linear equation with a negative trend when the correlation between latitude and humidity is analyzed
+** Cities that belong to the Northern Hemisphere tend to have a linear equation with a negative trend when the correlation between latitude and humidity is analyzed. The Max Temperature (F) tend to decrease when the latitude is greater.
   
   ![northern_latitude_vd_maxtemp](Images/norlatvsmaxtem.png)
 
-** Cities that belong to the Southern Hemisphere tend to have a linear equation with a positive trend when the correlation between latitude and humidity is analyzed
+** Cities that belong to the Southern Hemisphere tend to have a linear equation with a positive trend when the correlation between latitude and humidity is analyzed. The Max Temperature (F) tend to increase when the latitude is greater.
   
   ![northern_latitude_vd_maxtemp](Images/soulatvsmaxtem.png)
   
