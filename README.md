@@ -4,7 +4,7 @@
 ## Background
 
 
-![Equator](Instrutions/Images/equatorsign.png)
+![Equator](Instructions/Images/equatorsign.png)
 
 
 ## Part I - WeatherPy
